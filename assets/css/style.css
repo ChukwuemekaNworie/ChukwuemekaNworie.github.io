@@ -169,7 +169,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     gap: 60px;
-    max-width: 960px;
+    max-width: 970px;
     margin: 0 auto;
     text-align: left;
 }
